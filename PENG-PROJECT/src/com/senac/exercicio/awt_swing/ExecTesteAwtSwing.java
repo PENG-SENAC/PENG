@@ -2,13 +2,13 @@ package com.senac.exercicio.awt_swing;
 
 import java.awt.Frame;
 
-public class execTesteAwtSwing {
+public class ExecTesteAwtSwing {
 	
 	public static void main(String[] args) {
 		//execTesteAwtSwing.testeExemplo01();
 		//execTesteAwtSwing.testeExemplo02();
 		//execTesteAwtSwing.testeExemplo03();
-		execTesteAwtSwing.testeExemplo08();
+		ExecTesteAwtSwing.testeExemplo08();
 	}
 	
 	public static void testeExemplo01(){
