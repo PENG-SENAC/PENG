@@ -19,4 +19,6 @@ Os códigos aqui implementados, foram utilizados para entendimento dos exercicio
 * Collections e Generics
 * Herança e Polimorfismo
 * Tratando Exceptions
-* Socket
+* *Correção* - Socket
+* *New* - AWT e Swing
+* *New* - Threads
