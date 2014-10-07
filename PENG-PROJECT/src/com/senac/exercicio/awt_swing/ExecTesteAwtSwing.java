@@ -2,17 +2,17 @@ package com.senac.exercicio.awt_swing;
 
 import java.awt.Frame;
 
-public class ExecTesteAwtSwing {
+public class execTesteAwtSwing {
 	
 	public static void main(String[] args) {
 		//execTesteAwtSwing.testeExemplo01();
 		//execTesteAwtSwing.testeExemplo02();
 		//execTesteAwtSwing.testeExemplo03();
-		ExecTesteAwtSwing.testeExemplo08();
+		//execTesteAwtSwing.testeExemplo03();
 	}
 	
 	public static void testeExemplo01(){
-		new Exemplo01();
+		Exemplo01 exemplo01 = new Exemplo01();
 	}
 	
 	public static void testeExemplo02(){
@@ -24,10 +24,10 @@ public class ExecTesteAwtSwing {
 	}
 	
 	public static void testeExemplo03(){
-		new Exemplo03();
+		Exemplo03 exemplo03 = new Exemplo03();
 	}
 	
-	public static void testeExemplo08() {
-		new Exemplo08();
+	public static void testeExemplo08(String[] args) {
+		Exemplo08 exemplo08 = new Exemplo08();
 	}
 }

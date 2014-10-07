@@ -19,6 +19,7 @@ Os códigos aqui implementados, foram utilizados para entendimento dos exercicio
 * Collections e Generics
 * Herança e Polimorfismo
 * Tratando Exceptions
-* *Correção* - Socket
-* *New* - AWT e Swing
-* *New* - Threads
+* Socket
+* AWT e Swing
+* Threads
+* NEW - Livraria Banco de Dados JDBC
